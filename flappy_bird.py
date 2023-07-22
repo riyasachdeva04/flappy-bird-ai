@@ -34,3 +34,4 @@ class Bird:
         self.height = self.y
 
     def move(self):
+        pass
